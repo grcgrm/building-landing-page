@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Meta -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <meta name="description" content="PBCOM Tower is a joint venture between Filinvest Asia Corporation (FAC) and the Philippine Bank of Communications (PBCOM).">
+    <meta name="keywords" content="">
+    <meta name="author" content="KMC Savills">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KMC | PBCom Tower</title>
+
+
+    <!--Open Graph -->
+    <meta property="og:title" content="PBCom Tower | Makati, Metro Manila | KMC Savills">
+    <meta property="og:url" content="https://pbcom.kmcmaggroup.com">
+    <meta property="og:description" content="PBCOM Tower is a joint venture between Filinvest Asia Corporation (FAC) and the Philippine Bank of Communications (PBCOM).">
+    <meta property="og:type" content="website">
+
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="/media/2586/favicon.ico">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="main.css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <link rel="preload" as="font" href="/">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="script.js"></script>
+    
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    
+    <!-- Start of HubSpot Embed Code -->
+
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-md">
+        <div class="container-fluid ">
+            <a class="navbar-brand" href="https://beta.kmcmaggroup.com/for-lease/pbcom-tower/"><img width="100" height="47" class="img-responsive" src="https://beta.kmcmaggroup.com/media/666744/pbcom-logo_0.png" alt="KMC | PBCom Tower"></a>
+            <button class="btn navbar-toggler" aria-label="Menu" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+                <span>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" fill="white" class="bi bi-list" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z" />
+                    </svg>
+                </span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="collapsibleNavbar">
+                <ul class="navbar-nav">
+                    <li class="nav-item p-3">
+                        <a class="nav-link" href="#about">About</a>
+                    </li>
+                    <li class="nav-item p-3">
+                        <a class="nav-link" href="#specification">Specification</a>
+                    </li>
+                    <li class="nav-item p-3">
+                        <a class="nav-link" href="#gallery">Gallery</a>
+                    </li>
+                    <li class="nav-item p-3">
+                        <a class="nav-link" href="#location">Location</a>
+                    </li>
+                    <li class="nav-item p-3">
+                        <a class="contact-link text-decoration-none" href="#contact">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+
+
+    <div>
+        <div class="row container-fluid py-3 my-auto mx-auto" style="background-image: url('https://beta.kmcmaggroup.com/media/666837/herobg.webp'); height: 100vh; background-size: cover; background-repeat: no-repeat;">
+            <div class="col-md-5 my-auto mx-auto">
+            </div>
+            <div class="col-md-5 my-auto mx-auto">
+                <form class="form-inquire p-4 border rounded-3 bg-light">
+                    <h3 class="text-center">INQUIRE NOW</h3>
+                    <hr class="mb-3">
+                    <div class="row">
+                        <div class="col-md-6 form-floating mb-3">
+                            <input type="text" class="form-control" name="FirstName" id="FirstName">
+                            <label for="FirstName" class="ms-2">First Name</label>
+                        </div>
+
+                        <div class="col-md-6 form-floating mb-3">
+                            <input type="text" class="form-control" name="LastName" id="LastName">
+                            <label for="LastName" class="ms-2">Last Name</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 form-floating mb-3">
+                            <input type="email" class="form-control" name="EmailAddress" id="EmailAddress">
+                            <label for="EmailAddress" class="ms-2">Email Address</label>
+                        </div>
+
+                        <div class="col-md-6 form-floating mb-3">
+                            <input type="text" class="form-control" name="PhoneNumber" id="PhoneNumber">
+                            <label for="PhoneNumber" class="ms-2">Phone Number</label>
+                        </div>
+                    </div>
+
+                    <div class="form-floating mb-3">
+                        <input type="text" class="form-control" name="Company" id="Company">
+                        <label for="Company">Company</label>
+                    </div>
+
+                    <div class="form-outline mb-3">
+                        <textarea class="form-control" rows="4" placeholder="Message" name="cfpMessage"></textarea>
+                    </div>
+
+                    <button class="w-100 btn btn-submit" type="submit" name="submit">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <hr>
+
+    <!-- Back to top button -->
+    <button type="button" class="btn btn-danger btn-floating btn-lg" id="btn-back-to-top">
+        <img src="https://beta.kmcmaggroup.com/media/666811/up-arrow.png" alt="Back to Top" />
+    </button>
+
+    <div class="container-fluid" id="about">
+        <div class="desc-cont container-fluid mt-4">
+            <h1>PBCOM TOWER</h1>
+            <div class="row mb-5 d-flex align-items-center justify-content-center">
+                <div class="col-md-6">
+                    <h4>AN ICON THAT STANDS OUT</h4>
+                    <hr class="mt-0 mb-4">
+
+                    <h5>
+                        PBCOM Tower is a joint venture between Filinvest Asia Corporation (FAC) and the Philippine Bank of 
+                        Communications (PBCOM). It is the second tallest building in the Philippines.
+                        <br><br>
+                        It is a 53-storey, PEZA-accredited, office building strategically located along central Ayala Avenue, 
+                        highly accessible to major thoroughfares that connect to the entry and exit points of Makati City.
+                    </h5>
+                </div>
+
+                <div class="col-md-6" style="background-image: url('https://beta.kmcmaggroup.com/media/666838/pbcom1.webp'); height: 50vh; background-size: cover; background-repeat: no-repeat;">
+                </div>
+            </div>
+
+            <div class="row mb-5 d-flex align-items-center justify-content-center">
+                <div class="col-md-6">
+                    <h4>COMPETITIVE SPACES THAT OFFER CONVENIENCE</h4>
+                    <hr class="mt-0 mb-4">
+
+                    <h5>
+                        PBCOM Tower provides various selections of semi-fitted and warm shell office spaces ranging from 170 
+                        sq m up to 1,400 sq m to cater to a wide range of occupiers. It is equipped with 100% Back-up Power 
+                        and 24/7 security systems that are controlled by a central command station in strategic points in the 
+                        building.
+                    </h5>
+                </div>
+
+                <div class="col-md-6" style="background-image: url('https://beta.kmcmaggroup.com/media/666839/pbcom2.webp'); height: 50vh; background-size: cover; background-repeat: no-repeat;">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="spec-section container-fluid" id="specification" data-aos="fade-up">
+        <div class="container-fluid justify-content-center align-items-center reveal mt-4 pt-3">
+            <div class="row d-flex justify-content-center align-items-center">
+                <div class="spec-cont col-md-3 d-flex align-items-center justify-content-center p-4 mb-4">
+                    <div class="col-sm-4 px-3">
+                        <img src="https://beta.kmcmaggroup.com/media/666804/gla.png" width="50" height="50" alt="Gross Leasable Area" />
+                    </div>
+                    <div class="col-sm-8">
+                        <h5>Gross Leasable Area</h5>
+                        <p class="mb-0">61,600 SQ M</p>
+                    </div>
+
+                </div>
+
+                <div class="spec-cont col-md-3 d-flex align-items-center justify-content-center p-4 mb-4">
+                    <div class="col-sm-4 px-3">
+                        <img src="https://beta.kmcmaggroup.com/media/666805/floor.png" width="50" height="50" alt="No. of Floors" />
+                    </div>
+                    <div class="col-sm-8 px-3">
+                        <h5>No. of Floors</h5>
+                        <p class="mb-0">53</p>
+                    </div>
+
+                </div>
+
+                <div class="spec-cont col-md-3 d-flex align-items-center justify-content-center p-4 mb-4">
+                    <div class="col-sm-4 px-3">
+                        <img src="https://beta.kmcmaggroup.com/media/666806/plate.png" width="50" height="50" alt="Typical Floor Plate" />
+                    </div>
+                    <div class="col-sm-8">
+                        <h5>Typical Floor Plate</h5>
+                        <p class="mb-0">1,440 SQ M</p>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="row mt-5 mb-5 text-center">
+                <h1>SPECIFICATIONS</h1>
+            </div>
+
+            <div class="row d-flex justify-content-center">
+                <div class="spec-cont col-md-3 d-flex align-items-center justify-content-center p-4 mb-4">
+                    <div class="col-sm-4 px-3">
+                        <img src="https://beta.kmcmaggroup.com/media/666807/handover.png" width="50" height="50" alt="Handover Condition" loading="lazy" />
+                    </div>
+                    <div class="col-sm-8">
+                        <h5>Handover Condition</h5>
+                        <p class="mb-0">Fully fitted</p>
+                    </div>
+
+                </div>
+
+                <div class="spec-cont col-md-3 d-flex align-items-center justify-content-center p-4 mb-4">
+                    <div class="col-sm-4 px-3">
+                        <img src="https://beta.kmcmaggroup.com/media/666809/parking.png" width="50" height="50" alt="Parking Allocation" />
+                    </div>
+                    <div class="col-sm-8">
+                        <h5>Parking Allocation</h5>
+                        <p class="mb-0">1:225</p>
+                    </div>
+
+                </div>
+
+                <div class="spec-cont col-md-3 d-flex align-items-center justify-content-center p-4 mb-4">
+                    <div class="col-sm-4 px-3">
+                        <img src="https://beta.kmcmaggroup.com/media/666808/elevator.png" width="50" height="50" alt="Elevators" />
+                    </div>
+                    <div class="col-sm-8">
+                        <h5>No. of Elevators</h5>
+                        <p class="mb-0">22</p>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <hr style="border: 7px solid #DF2828;">
+
+    <div class="spec-section pt-5 justify-content-center container-fluid" id="gallery" data-aos="fade-up">
+        <div class="row mb-5 text-center">
+            <h1>GALLERY</h1>
+        </div>
+
+        <div class="row p-0">
+            <div class="col-md-4 p-0 d-flex justify-content-center">
+                <img src="https://beta.kmcmaggroup.com/media/666831/jpeg-optimizer_img_1709.webp" class="myImg" width="500" height="367" alt="KMC|PBCom" loading="lazy" />
+            </div>
+            <div class="col-md-4 p-0 d-flex justify-content-center">
+                <img src="https://beta.kmcmaggroup.com/media/666832/jpeg-optimizer_img_1784.webp" class="myImg" width="500" height="367" alt="KMC|PBCom" loading="lazy" />
+            </div>
+            <div class="col-md-4 p-0 d-flex justify-content-center">
+                <img src="https://beta.kmcmaggroup.com/media/666833/jpeg-optimizer_img_1777.webp" class="myImg" width="500" height="367" alt="KMC|PBCom" loading="lazy" />
+            </div>
+        </div>
+
+        <div class="row p-0 mb-5">
+            <div class="col-md-4 p-0 d-flex justify-content-center">
+                <img src="https://beta.kmcmaggroup.com/media/666834/jpeg-optimizer_img_1766.webp" class="myImg" width="500" height="367" alt="KMC|PBCom" loading="lazy" />
+            </div>
+            <div class="col-md-4 p-0 d-flex justify-content-center">
+                <img src="https://beta.kmcmaggroup.com/media/666835/jpeg-optimizer_img_1757.webp" class="myImg" width="500" height="367" alt="KMC|PBCom" loading="lazy" />
+            </div>
+            <div class="col-md-4 p-0 d-flex justify-content-center">
+                <img src="https://beta.kmcmaggroup.com/media/666836/jpeg-optimizer_img_1751.webp" class="myImg" width="500" height="367" alt="KMC|PBCom" loading="lazy" />
+            </div>
+        </div>
+
+    </div>
+
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" src="/" alt="KMC|PBCom" id="img01">
+        <div id="caption"></div>
+    </div>
+
+    <div class="map-section container-fluid" id="location" data-aos="fade-up">
+        <div class="container text-center justify-content-center">
+            <div class="row">
+
+                <div id="map" style="width: 100%; height: 400px;"></div>
+
+
+                <script>
+                    function initMap() {
+                        var map = new google.maps.Map(document.getElementById('map'), {
+                            center: { lat: 14.5584184118269, lng: 121.019328832626 },
+                            zoom: 17,
+                            styles: [
+                                {
+                                    "featureType": "all",
+                                    "elementType": "geometry",
+                                    "stylers": [
+                                        {
+                                            "color": "#a3a3a3"
+                                        },
+                                        {
+                                            "visibility": "on"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "all",
+                                    "elementType": "labels.text.fill",
+                                    "stylers": [
+                                        {
+                                            "gamma": 0.01
+                                        },
+                                        {
+                                            "lightness": 20
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "all",
+                                    "elementType": "labels.text.stroke",
+                                    "stylers": [
+                                        {
+                                            "saturation": -31
+                                        },
+                                        {
+                                            "lightness": -33
+                                        },
+                                        {
+                                            "weight": 2
+                                        },
+                                        {
+                                            "gamma": 0.8
+                                        },
+                                        {
+                                            "color": "#e7e7e7"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "all",
+                                    "elementType": "labels.icon",
+                                    "stylers": [
+                                        {
+                                            "visibility": "off"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "administrative",
+                                    "elementType": "geometry",
+                                    "stylers": [
+                                        {
+                                            "visibility": "off"
+                                        },
+                                        {
+                                            "color": "#4f4f4f"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "landscape",
+                                    "elementType": "geometry",
+                                    "stylers": [
+                                        {
+                                            "lightness": 30
+                                        },
+                                        {
+                                            "saturation": 30
+                                        },
+                                        {
+                                            "visibility": "on"
+                                        },
+                                        {
+                                            "color": "#5c5c5c"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "landscape",
+                                    "elementType": "geometry.fill",
+                                    "stylers": [
+                                        {
+                                            "visibility": "on"
+                                        },
+                                        {
+                                            "saturation": "-24"
+                                        },
+                                        {
+                                            "lightness": "13"
+                                        },
+                                        {
+                                            "color": "#616161"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "landscape.man_made",
+                                    "elementType": "geometry",
+                                    "stylers": [
+                                        {
+                                            "visibility": "simplified"
+                                        },
+                                        {
+                                            "color": "#524e4e"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "landscape.natural",
+                                    "elementType": "geometry.fill",
+                                    "stylers": [
+                                        {
+                                            "color": "#666666"
+                                        },
+                                        {
+                                            "visibility": "off"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "poi",
+                                    "elementType": "geometry",
+                                    "stylers": [
+                                        {
+                                            "saturation": 20
+                                        },
+                                        {
+                                            "color": "#737272"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "poi.business",
+                                    "elementType": "all",
+                                    "stylers": [
+                                        {
+                                            "visibility": "off"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "poi.business",
+                                    "elementType": "geometry",
+                                    "stylers": [
+                                        {
+                                            "visibility": "on"
+                                        },
+                                        {
+                                            "color": "#975151"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "poi.park",
+                                    "elementType": "geometry",
+                                    "stylers": [
+                                        {
+                                            "lightness": 20
+                                        },
+                                        {
+                                            "saturation": -20
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "road",
+                                    "elementType": "geometry",
+                                    "stylers": [
+                                        {
+                                            "lightness": 10
+                                        },
+                                        {
+                                            "saturation": -30
+                                        },
+                                        {
+                                            "color": "#979797"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "road",
+                                    "elementType": "geometry.fill",
+                                    "stylers": [
+                                        {
+                                            "color": "#979797"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "road",
+                                    "elementType": "geometry.stroke",
+                                    "stylers": [
+                                        {
+                                            "saturation": 25
+                                        },
+                                        {
+                                            "lightness": 25
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "transit",
+                                    "elementType": "geometry",
+                                    "stylers": [
+                                        {
+                                            "visibility": "off"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "water",
+                                    "elementType": "all",
+                                    "stylers": [
+                                        {
+                                            "lightness": -20
+                                        }
+                                    ]
+                                },
+                                {
+                                    "featureType": "water",
+                                    "elementType": "geometry",
+                                    "stylers": [
+                                        {
+                                            "visibility": "off"
+                                        }
+                                    ]
+                                }
+                            ]
+                        });
+
+                        var iconBase = 'https://beta.kmcmaggroup.com/media/666765/';
+                        var icons = {
+                            main: {
+                                icon: iconBase + 'pin.png'
+                            }
+                        }
+
+                        var features = [{
+                            position: new google.maps.LatLng(14.5584184118269, 121.019328832626),
+                            type: 'main'
+                        }];
+
+
+                        features.forEach(function (feature) {
+                            var marker = new google.maps.Marker({
+                                position: feature.position,
+                                icon: icons[feature.type].icon,
+                                map: map
+                            });
+                        });
+
+                    }
+                </script>
+                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAoJE2K7grRI6W8pjwYODkFQiG7kWaGdzA&callback=initMap" async defer></script>
+
+
+            </div>
+
+            <div class="map-cont row mt-4 mb-5">
+                <h4>A PREMIUM OFFICE BUILDING IN THE COUNTRY’S PREMIER BUSINESS DISTRICT</h4>
+                <h5>
+                    Known as the premier business and financial center of the Philippines, Makati city is home to 
+                    many local and multinational companies, foreign embassies, cultural and educational institutions, 
+                    and more. PBCOM Tower is conveniently located at the corner of V. A. Rufino Street and Ayala Avenue, 
+                    ensuring tenants with easy access to the city’s public transport points and nearby commercial and 
+                    leisure establishments, and residential communities in Makati City.
+                </h5>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="contact-section p-4" id="contact" data-aos="fade-up">
+        <div class="container-fluid reveal">
+            <div class="row d-flex justify-content-center">
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <div class="row no-gutters">
+                            <div class="col-md-4 card-img-con justify-content-center align-items-center">
+                                <img src="https://beta.kmcmaggroup.com/media/666849/ria.webp" class="card-img" width="123" height="123" alt="Ria Soliman" loading="lazy">
+                            </div>
+                            <div class="col-md-8 p-0">
+                                <div class="card-body d-flex justify-content-center p-0">
+                                    <div class="card__info">
+                                        <span class="card__category">Manager</span>
+                                        <h3 class="card__title">Ria Soliman</h3>
+                                        <span><a href="tel:(+63)9176313253" class="card__author">(+63) 917-631-3253</a></span> <br>
+                                        <span><a href="mailto:ria.soliman@kmcmaggroup.com?CC=info@kmcmaggroup.com" class="card__author">ria.soliman@kmcmaggroup.com</a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <div class="row no-gutters">
+                            <div class="col-md-4 card-img-con justify-content-center align-items-center">
+                                <img src="https://beta.kmcmaggroup.com/media/666848/tim.webp" class="card-img" width="123" height="123" alt="Tim Sevilla" loading="lazy">
+                            </div>
+                            <div class="col-md-8 p-0">
+                                <div class="card-body d-flex justify-content-center p-0">
+                                    <div class="card__info">
+                                        <span class="card__category">Manager</span>
+                                        <h3 class="card__title">Tim Sevilla</h3>
+                                        <span><a href="tel:(+63)9176740044" class="card__author">(+63) 917-674-0044</a></span>  <br>
+                                        <span><a href="mailto:tim.sevilla@kmcmaggroup.com?CC=info@kmcmaggroup.com" class="card__author">tim.sevilla@kmcmaggroup.com</a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <div class="row no-gutters">
+                            <div class="col-md-4 card-img-con justify-content-center align-items-center">
+                                <img src="https://beta.kmcmaggroup.com/media/666847/viren.webp" class="card-img" width="123" height="123" alt="Viren Bharvani" loading="lazy">
+                            </div>
+                            <div class="col-md-8 p-0">
+                                <div class="card-body d-flex justify-content-center p-0">
+                                    <div class="card__info">
+                                        <span class="card__category">Negotiator</span>
+                                        <h3 class="card__title">Viren Bharvani</h3>
+                                        <span><a href="tel:(+63)9776922490" class="card__author">(+63) 977-692-2490</a></span>  <br>
+                                        <span><a href="mailto:viren.bharvani@kmcmaggroup.com?CC=info@kmcmaggroup.com" class="card__author">viren.bharvani@kmcmaggroup.com</a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="contact-details row d-flex justify-content-center">
+                <div class="col-md-5">
+                    <h1>Contact Us</h1>
+                </div>
+                <div class="col-md-2 text-center mt-4 px-2">
+                    <div class="row">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="#E63131" class="bi bi-telephone-fill" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd" d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z" />
+                        </svg>
+                    </div>
+                    <a class="text-white text-decoration-none" href="tel:(+63)9175653547">(+63) 917-565-3547</a>
+                </div>
+
+
+                <div class="col-md-2 text-center mt-4 px-3">
+                    <div class="row">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="#E63131" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+                            <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z" />
+                        </svg>
+                    </div>
+                    <a class="text-white text-decoration-none" href="mailto:info@kmcmaggroup.com">info@kmcmaggroup.com</a>
+                </div>
+
+
+                <div class="col-md-3 text-center mt-4 px-2">
+                    <div class="row">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="#E63131" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
+                            <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" />
+                        </svg>
+                    </div>
+                    <a class="text-white text-decoration-none" href="https://goo.gl/maps/tZsHUhJmD76unS4z7">20/F Arthaland Century Pacific Tower, 5th Avenue Corner 30th St., BGC</a>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <footer class="footer-section d-flex justify-content-center p-4">
+        <div class="container text-center">
+            <img src="https://beta.kmcmaggroup.com/media/666769/kmc_logo.png" width="140" height="69" alt="KMC Savills" />
+        </div>
+
+        <div class="d-none">
+            Created by gracegrumo 2023
+        </div>
+    </footer>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous" async defer></script>
+    
+    <!-- Scripts -->
+    <script>
+        AOS.init();
+        document.addEventListener("touchstart", function (e) {
+          e.preventDefault();
+        });
+    </script>
+
+
+
+</body>
+
+</html>
